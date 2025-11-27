@@ -24,7 +24,7 @@ My academic path has given me hands-on experience in **molecular genetics**, **c
 ## Skills & Tools
 
 **Programming & Data Analysis**  
-Python, SQL, R, SPSS, Altair AI Studio  
+Python, SQL, R, SPSS, Altair AI Studio , HTML, CSS
 
 **Bioinformatics & Molecular Tools**  
 Primer-BLAST, Geneious, MEGA,  SWISS-MODEL, Clustal Omega, SnapGene  
